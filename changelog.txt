@@ -1,0 +1,71 @@
+*************************
+*    Betterwork v.1.0   *
+*                       *
+*************************
+
+
+=========================================================
+
+Version 1.0 - 08th October 2012
+
+=========================================================
+
+
+Fixed:
+- Fixed icon home, slideshow when switching to another lanugages
+- Fixed translate in admin option page
+- Fixed See all text in Landing category tempalate
+- Fixed increase width of soicial netwoking in footer to be serve 5 icons
+
+Added:
+- Added Widget Logic pluing to display different widget per languages
+
+Updated Files:
+- js/custom.js
+- wpml-config.xml
+- page-landing-category.php
+- includes/latest-updated.php
+- framework/admin/options.php
+- styel.css
+
+=========================================================
+
+Version 1.0 - 21th September 2012
+
+=========================================================
+
+
+Fixed:
+- Fixed logo for Donor slide not show
+- Fixed Featured image as optional for landing category page and archive page (show image when post/story has featured image uploaded)
+
+Added:
+- Added option to show/hide tab for Latest updated on homepage
+- Added Dropdown select category to be show in tab of Landing category template
+
+Updated Files:
+- includes/latest-updated.php
+- framework/admin/options.php
+- framework/widgets/donor-widget.php
+- page-landing-category.php
+- framework/main.php
+- framework/metaboxes/init.php
+- framework/metaboxes/theme-metaboxes.php
+
+21 September 2012
+
+	* Added option to show/hide tab for Latest updated on homepage
+
+
+=========================================================
+
+Version 1.0 - 13 August 2012 - Version 1.0
+
+=========================================================
+	
+	* First Release
+
+
+
+
+

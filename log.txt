@@ -1,0 +1,2 @@
+12:11:03: /Volumes/Poedit/Poedit.app/Contents/MacOS/msgcat: warning: Input files contain messages in different encodings, UTF-8 among others.
+12:11:03:                                                            Converting the output to UTF-8.

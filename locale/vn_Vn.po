@@ -1,0 +1,1180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: betterwork\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-23 16:28+0700\n"
+"PO-Revision-Date: 2012-07-25 08:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Page Not Found (Error 404)"
+msgstr "Không tìm thấy trang(Error 404)"
+
+#: 404.php:14
+msgid "Oops..., I cannot find that page you are looking for, sorry... (Error 404)"
+msgstr "Oups...,Tôi không thể tìm thấy trang bạn đang tìm kiếm, xin lỗi... (Error 404)"
+
+#: 404.php:17
+msgid "Let me help you find it:"
+msgstr "Hãy để tôi giúp bạn tìm thấy nó:"
+
+#: 404.php:20
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Tìm kiếm</strong>cho nó:"
+
+#: 404.php:24
+msgid "<strong>If you typed in a URL...</strong> check the spelling and try reloading the page."
+msgstr "<strong>Nếu bạn gõ vào một URL...</strong>kiểm tra chính tả và thử tải lại trang."
+
+#: 404.php:27
+#, php-format
+msgid "<strong>Start over again</strong> with the %1$sHomepage%2$s."
+msgstr "<strong>Bắt đầu lại một lần nữa</strong> với %1$sTrang chủ%2$s."
+
+#: archive.php:15
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Lưu trữ cho &#8216;%s&#8217; Thể loại"
+
+#: archive.php:23
+#: single.php:18
+#, php-format
+msgid "By %1$s on %2$s "
+msgstr "By %1$s trên %2$s "
+
+#: archive.php:25
+#: single.php:20
+#, php-format
+msgid "On %1$s "
+msgstr "trên %1$s "
+
+#: archive.php:30
+#: single.php:25
+msgid "Leave a comment"
+msgstr "Để lại một bình luận"
+
+#: archive.php:30
+#: comments.php:21
+#: single.php:25
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: archive.php:30
+#: comments.php:21
+#: single.php:25
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: archive.php:30
+#: single.php:25
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: archive.php:31
+#: single.php:26
+msgid "<div>Tags: "
+msgstr "<div>tags:"
+
+#: archive.php:55
+#: single.php:38
+msgid "Sorry, no posts matched your criteria."
+msgstr "Xin lỗi, không có bài viết phù hợp với tiêu chí của bạn."
+
+#: author.php:16
+msgid "Author Archive"
+msgstr "Tác giả Lưu Trữ"
+
+#: author.php:17
+msgid "About:"
+msgstr "About:"
+
+#: author.php:20
+msgid "Profile:"
+msgstr "Hồ Sơ:"
+
+#: author.php:24
+msgid "Posts by"
+msgstr "bài viết của"
+
+#: author.php:32
+msgid "No posts by this author."
+msgstr "Không có bài viết bởi tác giả này."
+
+#: author.php:35
+msgid "Edit this entry."
+msgstr "Chỉnh sửa mục này."
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bài này là mật khẩu bảo vệ. Nhập mật khẩu để xem các phản hồi."
+
+#: comments.php:21
+msgid "No Responses"
+msgstr "không có hồi đáp"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Được đóng lại."
+
+#: comments.php:57
+msgid "Leave a Reply"
+msgstr "Để lại một trả lời"
+
+#: comments.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: comments.php:64
+#, php-format
+msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+msgstr "<p>Bạn phải có <a href=\"%s\">đăng nhập</a> để viết bình luận.</p>"
+
+#: comments.php:71
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+msgstr "Đăng nhập như <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+
+#: comments.php:71
+msgid "Log out of this account"
+msgstr "Đăng xuất khỏi tài khoản này"
+
+#: comments.php:71
+msgid "Log out &raquo;"
+msgstr "Đăng xuất &raquo;"
+
+#: comments.php:76
+#: page-contact.php:134
+msgid "Name"
+msgstr "tên"
+
+#: comments.php:76
+#: comments.php:79
+#: page-contact.php:142
+#: page-contact.php:148
+msgid "(required)"
+msgstr "(bắt buộc)"
+
+#: comments.php:79
+msgid "Mail (will not be published)"
+msgstr "Mail (sẽ không được công bố)"
+
+#: comments.php:82
+msgid "Website"
+msgstr "website"
+
+#: comments.php:90
+msgid "Submit Comment"
+msgstr "Gửi Bình luận"
+
+#: index.php:9
+msgid "Donors"
+msgstr "Các nhà tài trợ"
+
+#: index.php:10
+msgid "The Better Work global programme is funded by ..."
+msgstr "Better Work chương trình toàn cầu được tài trợ bởi ..."
+
+#: index.php:11
+msgid "The For a complete list of donors, including country programme donors, please click <a href=\"#\">here</a> ..."
+msgstr "Đối với một danh sách đầy đủ của các nhà tài trợ, bao gồm cả các nhà tài trợ chương trình quốc gia, xin vui lòng bấm vào <a href=\"#\">đây</a> ..."
+
+#: index.php:16
+msgid "Latest updated"
+msgstr "mới nhất cập nhật"
+
+#: page-contact.php:49
+#: page-contact.php:137
+msgid "Please enter a name"
+msgstr "Hãy nhập tên"
+
+#: page-contact.php:51
+#: page-contact.php:138
+msgid "Your name must consist of at least 2 characters"
+msgstr "Tên của bạn phải bao gồm ít nhất 2 ký tự"
+
+#: page-contact.php:55
+#: page-contact.php:57
+#: page-contact.php:144
+msgid "Please enter a valid email address"
+msgstr "Xin vui lòng nhập một địa chỉ email hợp lệ"
+
+#: page-contact.php:61
+msgid "Please enter your message"
+msgstr "Xin vui lòng nhập thông điệp của bạn"
+
+#: page-contact.php:70
+#, php-format
+msgid "Contact Form submission from %s"
+msgstr "Liên trình Form từ %s"
+
+#: page-contact.php:71
+msgid "Sender's name: "
+msgstr "Tên của người gửi:"
+
+#: page-contact.php:72
+msgid "E-mail: "
+msgstr "E-mail:"
+
+#: page-contact.php:73
+msgid "Message: "
+msgstr "tin nhắn:"
+
+#: page-contact.php:106
+msgid "Tel"
+msgstr "Điện thoại"
+
+#: page-contact.php:107
+msgid "Fax"
+msgstr "fax"
+
+#: page-contact.php:108
+msgid "Email"
+msgstr "email"
+
+#: page-contact.php:119
+msgid "Email Successfully Sent!"
+msgstr "Email thành công đã gửi!"
+
+#: page-contact.php:120
+#, php-format
+msgid "Thank you <strong>%s</strong> for using our contact form! Your email was successfully sent and we will be in touch with you shortly."
+msgstr "cảm ơn bạn<strong>%s</strong>sử dụng hình thức liên lạc của chúng tôi! Email của bạn đã được gửi thành công và chúng tôi sẽ liên lạc với bạn ngay."
+
+#: page-contact.php:126
+msgid "Failed to connect to mailserver!"
+msgstr "Không thể kết nối đến mail server!"
+
+#: page-contact.php:132
+msgid "Please use the form below to send us an email:"
+msgstr "Xin vui lòng sử dụng mẫu dưới đây để gửi email cho chúng tôi:"
+
+#: page-contact.php:134
+msgid "(required, at least 2 characters)"
+msgstr "(yêu cầu, ít nhất 2 ký tự)"
+
+#: page-contact.php:136
+msgid "required"
+msgstr "yêu cầu"
+
+#: page-contact.php:142
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: page-contact.php:148
+msgid "Your comment"
+msgstr "Cảm nhận của bạn"
+
+#: page-contact.php:150
+msgid "<br />Please enter your message"
+msgstr "<br />Xin vui lòng nhập thông điệp của bạn"
+
+#: page-contact.php:162
+msgid "Submit"
+msgstr "Gửi"
+
+#: search.php:20
+#, php-format
+msgid "Search Results for &#8216;<em>%s</em>&#8217;"
+msgstr "Kết quả tìm kiếm cho &#8216;<em>%s</em>&#8217;"
+
+#: search.php:55
+msgid "Didn't find what you were looking for? Refine your search again!"
+msgstr "Không tìm thấy những gì bạn đang tìm kiếm? Lọc tìm kiếm của bạn một lần nữa!"
+
+#: searchform.php:4
+msgid "Search..."
+msgstr "Tìm kiếm ..."
+
+#: sidebar.php:8
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -&gt; Widgets</em></strong> and place widgets into the <strong><em>"
+msgstr "Để chỉnh sửa thanh bên này, đi phụ trợ quản trị <strong><em>xuất hiện -&gt; Widgets</em></strong> và đặt widget vào <strong><em>"
+
+#: sidebar.php:16
+#: sidebar.php:28
+msgid "Go to to admin backend <strong><em> -&gt; edit this page/post</em></strong>"
+msgstr "Tới phụ trợ quản trị <strong><em> -&gt; chỉnh sửa trang / bài</em></strong>"
+
+#: sidebar.php:17
+#: sidebar.php:29
+msgid "Select Sidebar name under <strong><em>Sidebar Panel</em></strong>"
+msgstr "Chọn tên Sidebar theo <strong><em>Sidebar Bảng điều chỉnh</em></strong>"
+
+#: sidebar.php:18
+#: sidebar.php:30
+msgid "<strong><em>Appearance -&gt; Widgets</em></strong> and place widgets into the <strong><em>Sidebar</em></strong> you selected"
+msgstr "<strong><em>xuất hiện -&gt; Widgets</em></strong> và đặt widget vào<strong><em>Sidebar</em></strong> bạn đã chọn"
+
+#: framework/main.php:141
+msgid "Main Menu"
+msgstr "menu chính"
+
+#: framework/main.php:145
+msgid "Footer Menu"
+msgstr "Footer đơn"
+
+#: framework/main.php:169
+#: framework/main.php:191
+msgid "Home"
+msgstr "Trang chủ"
+
+#: framework/main.php:201
+msgid "Search for:"
+msgstr "Tìm:"
+
+#: framework/main.php:203
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: framework/main.php:223
+#, php-format
+msgid "<span class=\"time\">%1$s</span> on <a href=\"#comment-%2$s\" title=\"\">%3$s</a>"
+msgstr "<span class=\"time\">%1$s</span> Về<a href=\"#comment-%2$s\" title=\"\">%3$s</a>"
+
+#: framework/main.php:223
+msgid "g:i a"
+msgstr "g: i 1"
+
+#: framework/main.php:223
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: framework/main.php:224
+msgid "edit"
+msgstr "chỉnh sửa"
+
+#: framework/main.php:230
+msgid "Your comment is awaiting moderation."
+msgstr "Cảm nhận của bạn đang chờ kiểm duyệt."
+
+#: framework/main.php:272
+msgid "Search Results for:"
+msgstr "Kết quả tìm kiếm cho:"
+
+#: framework/main.php:276
+msgid "Category Archives:"
+msgstr "Thể loại -:"
+
+#: framework/main.php:280
+msgid "Tag Archives:"
+msgstr "Tag Archives:"
+
+#: framework/main.php:284
+msgid "Not Found"
+msgstr "không tìm thấy"
+
+#: framework/main.php:384
+msgid "There is no excerpt because this is a protected post."
+msgstr "Có trích đoạn không có bởi vì đây là một bài viết được bảo vệ."
+
+#: framework/main.php:680
+msgid "Read more"
+msgstr "Tìm hiểu thêm"
+
+#: framework/main.php:698
+#: framework/main.php:720
+#: framework/main.php:742
+#: framework/main.php:764
+msgid "Read more..."
+msgstr "Tìm hiểu thêm ..."
+
+#: framework/main.php:792
+msgid "Top of Page"
+msgstr "Đầu trang"
+
+#: framework/main.php:792
+msgid "Back to Top"
+msgstr "Trở về đầu trang"
+
+#: framework/main.php:1094
+msgid "Latest Posts"
+msgstr "Bài viết mới nhất"
+
+#: framework/main.php:1111
+#, php-format
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr "%s:Widget lớp học không tìm thấy. Hãy chắc chắn rằng các phụ tùng này tồn tại và tên lớp là chính xác"
+
+#: framework/main.php:1186
+msgid "A widget area, used as a sidebar for pages,post or single story."
+msgstr "Một khu vực phụ tùng, được sử dụng như là một sidebar cho bài viết, trang hay một câu chuyện duy nhất."
+
+#: framework/main.php:1195
+msgid "A widget area, used as a sidebar for regular pages."
+msgstr "Một khu vực phụ tùng, được sử dụng như là một sidebar cho các trang web thường xuyên."
+
+#: framework/main.php:1204
+msgid "A widget area, used as a sidebar for regular single stories."
+msgstr "Một khu vực phụ tùng, được sử dụng như là một bên những câu chuyện thường xuyên duy nhất."
+
+#: framework/main.php:1213
+msgid "A widget area, used as a sidebar for the Contact page."
+msgstr "Một khu vực phụ tùng, được sử dụng như là một sidebar cho bài viết, trang hay một câu chuyện duy nhất."
+
+#: framework/main.php:1222
+msgid "A widget area, used as a sidebar for quick view on homepage"
+msgstr "Một khu vực phụ tùng, được sử dụng như là một sidebar để xem nhanh chóng trên trang chủ"
+
+#: framework/main.php:1231
+msgid "A widget area, used as a sidebar for place Donor Widget."
+msgstr "A widget area, used as a sidebar for place Donor Widget."
+
+#: framework/admin/options-backup.php:69
+msgid "Options Import / Export"
+msgstr "Tùy chọn Import / Export"
+
+#: framework/admin/options-backup.php:69
+#: framework/admin/options-backup.php:108
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: framework/admin/options-backup.php:111
+msgid "Import Settings"
+msgstr "nhập khẩu Settingst"
+
+#: framework/admin/options-backup.php:113
+msgid "If you have settings in a backup file on your computer, the Import / Export system can import those into this site. To get started, upload your backup file to import from below."
+msgstr "Nếu bạn đã cài đặt trong một tập tin sao lưu trên máy tính của bạn, hệ thống nhập khẩu / xuất khẩu có thể nhập những người vào trang web này. Để bắt đầu, tải lên tập tin sao lưu của bạn để nhập khẩu từ bên dưới."
+
+#: framework/admin/options-backup.php:118
+#, php-format
+msgid "Upload File: (Maximum Size: %s)"
+msgstr "Upload File: (Kích thước tối đa: %s)"
+
+#: framework/admin/options-backup.php:121
+msgid "Upload File and Import"
+msgstr "Tải lên tập tin và nhập khẩu"
+
+#: framework/admin/options-backup.php:128
+msgid "Export Settings"
+msgstr "xuất Cài đặt"
+
+#: framework/admin/options-backup.php:130
+msgid "When you click the button below, the Import / Export system will create a text file for you to save to your computer."
+msgstr "Khi bạn nhấp vào nút bên dưới, hệ thống nhập khẩu / xuất khẩu sẽ tạo ra một tập tin văn bản để bạn có thể lưu vào máy tính của bạn."
+
+#: framework/admin/options-backup.php:131
+#, php-format
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings\"."
+msgstr "Điều này tập tin văn bản có thể được sử dụng để khôi phục lại các thiết lập của bạn ở đây\"%s\", hoặc để dễ dàng thiết lập một trang web khác với các thiết lập tương tự\"."
+
+#: framework/admin/options-backup.php:136
+msgid "Download Export File"
+msgstr "Tải tập tin xuất khẩu"
+
+#: framework/admin/options-backup.php:161
+msgid "Welcome to the Options Backup Manager."
+msgstr "Manager tùy chọn sao lưu."
+
+#: framework/admin/options-backup.php:162
+msgid "Here are a few notes on using this screen."
+msgstr "Dưới đây là một vài ghi chú về việc sử dụng màn hình này"
+
+#: framework/admin/options-backup.php:163
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr "Người quản lý sao lưu cho phép bạn sao lưu hoặc khôi phục lại\"chủ đề Tùy chọn\" và các cài đặt khác hoặc từ một file.Theme văn bản"
+
+#: framework/admin/options-backup.php:164
+msgid "To create a backup, simply select the setting type you'd like to backup (or \"All Settings\") and hit the \"Download Export File\" button."
+msgstr "Để tạo một bản sao lưu, bạn chỉ cần chọn loại thiết lập mà bạn muốn sao lưu (hoặc \"All Settings\") và nhấn \"Tải tập tin xuất khẩu\" nút."
+
+#: framework/admin/options-backup.php:165
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr "Để khôi phục lại các thiết lập của bạn từ một sao lưu dự phòng, trình duyệt máy tính của bạn cho tập tin (theo \"Import Settings\" heading)và nhấn \"Upload File and Import\" nút. Điều này sẽ khôi phục lại các thiết lập đã thay đổi kể từ khi sao lưu dự phòng."
+
+#: framework/admin/options-backup.php:167
+msgid "Please note that only valid backup files generated through the OptionsFramework Backup Manager should be imported."
+msgstr "Xin lưu ý rằng chỉ có các tập tin sao lưu hợp lệ được tạo ra thông qua việc quản lý sao lưu OptionsFramework nên được nhập khẩu."
+
+#: framework/admin/options-backup.php:169
+msgid "Looking for assistance?"
+msgstr "Bạn đang tìm để được hỗ trợ?"
+
+#: framework/admin/options-backup.php:189
+#, php-format
+msgid "Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr "Xin lưu ý rằng điều này quản lý sao lưu sao lưu thiết lập của bạn và không phải là nội dung của bạn. Để sao lưu nội dung của bạn, xin vui lòng sử dụng Công cụ% xuất khẩu sWordPress%s."
+
+#: framework/admin/options-backup.php:192
+msgid "There was a problem importing your settings. Please Try again."
+msgstr "Để sao lưu nội dung của bạn, xin vui lòng sử dụng Công cụ% xuất khẩu sWordPress..."
+
+#: framework/admin/options-backup.php:194
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr "Có một vấn đề xuất khẩu các thiết lập của bạn. Vui lòng thử lại."
+
+#: framework/admin/options-backup.php:196
+msgid "The import file you've provided is invalid. Please try again."
+msgstr "Nhập khẩu tập tin bạn đã cung cấp là không hợp lệ.Vui lòng thử lại."
+
+#: framework/admin/options-backup.php:198
+#, php-format
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr "Cài đặt thành công nhập khẩu. | Quay trở lại %schủ đề Tùy chọn%s"
+
+#: framework/admin/options-framework.php:277
+msgid "Save Options"
+msgstr "lưu Tùy chọn"
+
+#: framework/admin/options-framework.php:278
+msgid "Restore Defaults"
+msgstr "khôi phục lại mặc định"
+
+#: framework/admin/options-framework.php:278
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Click vào OK để thiết lập lại. Bất kỳ cài đặt chủ đề sẽ bị mất!"
+
+#: framework/admin/options-framework.php:309
+msgid "Default options restored."
+msgstr "Tùy chọn mặc định phục hồi."
+
+#: framework/admin/options-framework.php:360
+msgid "Options saved."
+msgstr "Tùy chọn lưu."
+
+#: framework/admin/options-framework.php:418
+msgid "Theme Options"
+msgstr "chủ đề Tùy chọn"
+
+#: framework/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr "Tùy chọn khung nội container"
+
+#: framework/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr "tải lên"
+
+#: framework/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr "Xem file"
+
+#: framework/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr "Thư viện ảnh"
+
+#: framework/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr "Trước đây gửi"
+
+#: framework/admin/options.php:101
+msgid "general Settings"
+msgstr "chung Cài đặt"
+
+#: framework/admin/options.php:106
+msgid "the logo"
+msgstr "logo"
+
+#: framework/admin/options.php:108
+msgid "upload custom logo"
+msgstr "tải lên biểu tượng tùy chỉnh"
+
+#: framework/admin/options.php:113
+msgid "favicon"
+msgstr "favicon"
+
+#: framework/admin/options.php:114
+msgid "upload your favicon"
+msgstr "tải lên favicon của bạn"
+
+#: framework/admin/options.php:119
+msgid "Scroll to top button"
+msgstr "Di chuyển đến nút trên cùng"
+
+#: framework/admin/options.php:121
+msgid "Enable or disable Scroll to top button"
+msgstr "Kích hoạt hoặc vô hiệu hóa Di chuyển đến nút trên cùng"
+
+#: framework/admin/options.php:126
+msgid "Scroll To Top Image"
+msgstr "Di chuyển hình ảnh Top"
+
+#: framework/admin/options.php:128
+msgid "upload custom Scroll to top image"
+msgstr "tải lên Di chuyển tùy chỉnh hình ảnh hàng đầu"
+
+#: framework/admin/options.php:132
+msgid "Enable prettyPhoto_script"
+msgstr "Kích hoạt tính năng prettyPhoto_script"
+
+#: framework/admin/options.php:134
+msgid "Enable or disable big photo when user click on thumbnail photo in each post/page."
+msgstr "Kích hoạt hoặc vô hiệu hóa hình ảnh lớn khi người dùng nhấp chuột vào hình ảnh thu nhỏ trong mỗi bài / trang."
+
+#: framework/admin/options.php:139
+msgid "Google analytics"
+msgstr "Google phân tích"
+
+#: framework/admin/options.php:140
+msgid "google analytics or any Script, it will be add before closing of body tag"
+msgstr "phân tích hoặc bất kỳ Script, nó sẽ được thêm trước khi đóng của thẻ cơ thể"
+
+#: framework/admin/options.php:145
+msgid "Feedburner"
+msgstr "Feedburner"
+
+#: framework/admin/options.php:154
+msgid "Post settings"
+msgstr "Đăng cài đặt"
+
+#: framework/admin/options.php:159
+msgid "Article Elements"
+msgstr "Điều Elements"
+
+#: framework/admin/options.php:161
+msgid "Show/Hide any article Element, in home/category/article"
+msgstr "Hiện / Ẩn bất kỳ phần tử bài viết, trong nhà / thể loại / bài viết"
+
+#: framework/admin/options.php:164
+msgid "show/hide the excerpt instead of the full post content"
+msgstr "hiển thị / giấu các đoạn trích thay vì nội dung bài đầy đủ"
+
+#: framework/admin/options.php:167
+msgid "show/hide the excerpt instead of the full post content in the archive page."
+msgstr "hiển thị / giấu các đoạn trích thay vì nội dung bài viết đầy đủ trong trang lưu trữ."
+
+#: framework/admin/options.php:171
+msgid "Learn more text"
+msgstr "Tìm hiểu văn bản hơn"
+
+#: framework/admin/options.php:173
+msgid "learn more"
+msgstr "tìm hiểu thêm"
+
+#: framework/admin/options.php:177
+msgid "See all text"
+msgstr "Xem tất cả các văn bản"
+
+#: framework/admin/options.php:179
+msgid "See all"
+msgstr "xem tất cả"
+
+#: framework/admin/options.php:183
+msgid "Change the excerpt length number"
+msgstr "Thay đổi số chiều dài đoạn trích"
+
+#: framework/admin/options.php:186
+msgid "This number refers to the number of words to show."
+msgstr "Con số này đề cập đến số lượng từ để hiển thị."
+
+#: framework/admin/options.php:190
+msgid "Read More Link"
+msgstr "Đọc liên kết khác"
+
+#: framework/admin/options.php:193
+msgid "Enter the text for the post's 'Read more' link. Leave blank to hide it. "
+msgstr "Nhập văn bản của bài \"Đọc thêm\" liên kết. Để trống để che giấu nó."
+
+#: framework/admin/options.php:197
+msgid "Show Author Name"
+msgstr "Hiển thị tên tác giả"
+
+#: framework/admin/options.php:200
+msgid "Show/hide the author's name. "
+msgstr "Hiển thị / giấu các tên của tác giả."
+
+#: framework/admin/options.php:204
+msgid "Post Tags"
+msgstr "Đăng Download"
+
+#: framework/admin/options.php:207
+msgid "Show/hide Post Tags"
+msgstr "Hiện / ẩn Download bài"
+
+#: framework/admin/options.php:211
+msgid "Enable \"Featured Image\" in archive page"
+msgstr "Kích hoạt tính năng \"Featured Image\" trong trang lưu trữ"
+
+#: framework/admin/options.php:214
+msgid "Show/hide thumbnails image in archive page"
+msgstr "Hiển thị / giấu các hình thu nhỏ hình ảnh trong trang lưu trữ"
+
+#: framework/admin/options.php:222
+#: framework/admin/options.php:227
+msgid "Article Share"
+msgstr "Điều Chia sẻ"
+
+#: framework/admin/options.php:229
+msgid "Enable/disable the share networks under every article"
+msgstr "Kích hoạt / vô hiệu hóa các mạng chia sẻ dưới mỗi bài báo"
+
+#: framework/admin/options.php:232
+msgid "Disable Share"
+msgstr "vô hiệu hóa Chia sẻ"
+
+#: framework/admin/options.php:238
+#: framework/admin/options.php:495
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/admin/options.php:244
+msgid "Google+"
+msgstr "Google +"
+
+#: framework/admin/options.php:250
+#: framework/admin/options.php:484
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/admin/options.php:256
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: framework/admin/options.php:262
+msgid "Stumble Upon"
+msgstr "vấp ngã Khi"
+
+#: framework/admin/options.php:268
+msgid "Digg"
+msgstr "Digg"
+
+#: framework/admin/options.php:274
+msgid "Evernote"
+msgstr "Evernote"
+
+#: framework/admin/options.php:280
+msgid "Reddit"
+msgstr "Reddit"
+
+#: framework/admin/options.php:287
+msgid "Pin It"
+msgstr "pin này"
+
+#: framework/admin/options.php:298
+#: framework/posttype/custom-post-type.php:8
+msgid "Slideshow"
+msgstr "slideshow"
+
+#: framework/admin/options.php:304
+msgid "Animation & Effects"
+msgstr "hình ảnh động &Hiệu ứng"
+
+#: framework/admin/options.php:308
+msgid "Effect"
+msgstr "hiệu lực"
+
+#: framework/admin/options.php:309
+msgid "name of transition effect"
+msgstr "tên của hiệu ứng chuyển tiếp"
+
+#: framework/admin/options.php:316
+msgid "easing"
+msgstr "nới lỏng"
+
+#: framework/admin/options.php:317
+msgid "easing method for transitions <a href=\"http://ralphwhitbeck.com/demos/jqueryui/effects/easing/\">more info</a>"
+msgstr "phương pháp dễ dàng cho quá trình chuyển đổi <a href=\"http://ralphwhitbeck.com/demos/jqueryui/effects/easing/\">thông tin thêm</a>"
+
+#: framework/admin/options.php:323
+msgid "Speed"
+msgstr "Tốc độ"
+
+#: framework/admin/options.php:324
+msgid "speed of the transition"
+msgstr "tốc độ của quá trình chuyển đổi"
+
+#: framework/admin/options.php:334
+msgid "timeout"
+msgstr "thời gian chờ"
+
+#: framework/admin/options.php:335
+msgid "milliseconds between slide transitions"
+msgstr "mili giây giữa chuyển slide"
+
+#: framework/admin/options.php:349
+msgid "Contact Forms"
+msgstr "liên hệ với hình thức"
+
+#: framework/admin/options.php:372
+msgid "Contact Fields"
+msgstr "Liên Fields"
+
+#: framework/admin/options.php:374
+msgid "The Contact Fields provide a way to better display additional contact information such as Company Name, Address, Phone, etc"
+msgstr "Các Fields Liên hệ cung cấp một cách để hiển thị thêm thông tin liên lạc như tên công ty, địa chỉ, điện thoại, vv"
+
+#: framework/admin/options.php:377
+msgid "Address"
+msgstr "địa chỉ"
+
+#: framework/admin/options.php:380
+msgid "Please add your address here."
+msgstr "Xin vui lòng thêm địa chỉ của bạn ở đây."
+
+#: framework/admin/options.php:384
+msgid "Telephone Number"
+msgstr "Số điện thoại"
+
+#: framework/admin/options.php:387
+msgid "Please add your telephone number here."
+msgstr "Xin vui lòng thêm số điện thoại của bạn ở đây."
+
+#: framework/admin/options.php:391
+msgid "Fax Number"
+msgstr "Số Fax"
+
+#: framework/admin/options.php:394
+msgid "Please add your fax number here."
+msgstr "Xin vui lòng thêm số fax của bạn ở đây."
+
+#: framework/admin/options.php:398
+msgid "Email Form"
+msgstr "email Mẫu"
+
+#: framework/admin/options.php:400
+msgid "A way to show/hide form, and who will receive email"
+msgstr "Một cách để hiển thị / ẩn hình thức, và người sẽ nhận được email"
+
+#: framework/admin/options.php:403
+msgid "Enable email form"
+msgstr "Kích hoạt tính năng hình thức email"
+
+#: framework/admin/options.php:409
+msgid "Recipient Email"
+msgstr "email người nhận"
+
+#: framework/admin/options.php:412
+msgid "Please enter recipient's email address, comma-separate multiple recipients"
+msgstr "Xin vui lòng nhập địa chỉ email người nhận, nhiều người nhận riêng biệt bằng dấu phẩy"
+
+#: framework/admin/options.php:416
+msgid "Enable ReCAPTCHA"
+msgstr "Kích hoạt tính năng reCAPTCHA"
+
+#: framework/admin/options.php:419
+msgid "Add ReCAPTCHA to the email form for extra security (for more information visit <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>)"
+msgstr "ReCAPTCHA hình thức email cho bảo mật thêm (xem chi tiết <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>)"
+
+#: framework/admin/options.php:423
+msgid "ReCAPTCHA Public Key"
+msgstr "ReCAPTCHA Public Key"
+
+#: framework/admin/options.php:425
+msgid "To use reCAPTCHA you must get an API public key from <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>"
+msgstr "Để sử dụng reCAPTCHA, bạn phải nhận được một chìa khóa API công cộng từ <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>"
+
+#: framework/admin/options.php:429
+msgid "ReCAPTCHA Private Key"
+msgstr "ReCAPTCHA Private Key"
+
+#: framework/admin/options.php:431
+msgid "To use reCAPTCHA you must get an API private key from <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>"
+msgstr "Để sử dụng reCAPTCHA, bạn phải nhận được một chìa khóa API tin từ <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>"
+
+#: framework/admin/options.php:435
+msgid "ReCAPTCHA Theme"
+msgstr "reCAPTCHA Theme"
+
+#: framework/admin/options.php:437
+msgid "Choose Theme: White, Red, Blackglass and Clean, use to protect auto mail sender"
+msgstr "Chọn Chủ đề: Màu trắng, đỏ, Blackglass và sạch, sử dụng để bảo vệ người gửi thư tự động"
+
+#: framework/admin/options.php:447
+msgid "Footer"
+msgstr "Footer"
+
+#: framework/admin/options.php:453
+msgid "copyrights"
+msgstr "quyền tác giả"
+
+#: framework/admin/options.php:454
+msgid "footer copyrights text"
+msgstr "chân trang bản quyền tác giả văn bản"
+
+#: framework/admin/options.php:456
+msgid "© 2012 Betterwork. All rights reserved."
+msgstr "© 2012 Betterwork. Tất cả các quyền."
+
+#: framework/admin/options.php:460
+msgid "Custom logo 1"
+msgstr "Biểu tượng tuỳ chỉnh 1"
+
+#: framework/admin/options.php:461
+msgid "footer custom logo, (optional): if you do not upload new logo image, it use ILO logo"
+msgstr "logo, chân trang tùy chỉnh (tùy chọn): nếu bạn không tải lên hình ảnh logo mới, sử dụng logo của ILO"
+
+#: framework/admin/options.php:466
+msgid "Custom logo 2"
+msgstr "Tùy chỉnh biểu tượng 2"
+
+#: framework/admin/options.php:467
+msgid "footer custom logo, (optional): if you do not upload new logo image, it use IFC logo"
+msgstr "logo, chân trang tùy chỉnh (tùy chọn): nếu bạn không tải lên hình ảnh logo mới, sử dụng logo IFC"
+
+#: framework/admin/options.php:473
+msgid "Social Networks"
+msgstr "Mạng Xã hội"
+
+#: framework/admin/options.php:475
+msgid "Control in the bottom social icons, Paste the URL of your favorite social networks or leave empty to hide icons"
+msgstr "Kiểm soát trong các biểu tượng xã hội dưới, Dán URL của mạng xã hội ưa thích của bạn hoặc để lại sản phẩm nào để ẩn biểu tượng"
+
+#: framework/admin/options.php:478
+msgid "Join message"
+msgstr "Tham gia tin nhắn"
+
+#: framework/admin/options.php:480
+msgid "Join us on"
+msgstr "Tham gia với chúng tôi trên"
+
+#: framework/admin/options.php:490
+msgid "Youtube"
+msgstr "Youtube"
+
+#: framework/functions/sidebar-generator.php:175
+#: framework/functions/sidebar-generator.php:197
+msgid "Custom Sidebars"
+msgstr "Tuỳ chỉnh sidebars"
+
+#: framework/functions/sidebar-generator.php:228
+msgid "No Sidebars defined"
+msgstr "Không có sidebars quy định"
+
+#: framework/functions/sidebar-generator.php:278
+msgid "Select the custom sidebar, leave unselected to use the default sidebar"
+msgstr "Chọn sidebar tùy chỉnh, để lại không được lựa chọn để sử dụng thanh bên mặc định"
+
+#: framework/metaboxes/theme-metaboxes.php:33
+msgid "Put the link/url of page. (optional)"
+msgstr "Đặt liên kết / url của trang.(tùy chọn)"
+
+#: framework/metaboxes/theme-metaboxes.php:39
+msgid "Upload image slide. Size should be 952px X 330px"
+msgstr "Tải trình diễn ảnh. Kích thước nên được 952px X 330px"
+
+#: framework/posttype/custom-post-type.php:9
+msgid "slideshow"
+msgstr "xem hình tự động"
+
+#: framework/posttype/custom-post-type.php:10
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: framework/posttype/custom-post-type.php:11
+msgid "Add New slideshow"
+msgstr "Thêm slideshow mới"
+
+#: framework/posttype/custom-post-type.php:12
+msgid "Edit slideshow"
+msgstr "Chỉnh sửa hình tự động"
+
+#: framework/posttype/custom-post-type.php:13
+msgid "New slideshow"
+msgstr "mới xem hình tự động"
+
+#: framework/posttype/custom-post-type.php:14
+msgid "View slideshow"
+msgstr "Xem hình tự động"
+
+#: framework/posttype/custom-post-type.php:15
+msgid "Search slideshow"
+msgstr "Tìm kiếm xem hình tự động"
+
+#: framework/posttype/custom-post-type.php:16
+msgid "No slideshow found"
+msgstr "Không xem hình tự động tìm thấy"
+
+#: framework/posttype/custom-post-type.php:17
+msgid "No slideshow found in Trash"
+msgstr "Không xem hình tự động tìm thấy trong Thùng rác"
+
+#: framework/widgets/customcategory-widget.php:39
+msgid "A list or dropdown of a single category's descendants."
+msgstr "Một danh sách thả xuống của con cháu một thể loại duy nhất."
+
+#: framework/widgets/customcategory-widget.php:45
+msgid "Betterwork:: Custom Category"
+msgstr "Betterwork :: Tuỳ chỉnh Thể loại"
+
+#: framework/widgets/customcategory-widget.php:111
+msgid "Categories"
+msgstr "Thể loại"
+
+#: framework/widgets/customcategory-widget.php:116
+#: framework/widgets/googlemap-widget.php:132
+#: framework/widgets/latestpost-widget.php:140
+#: framework/widgets/subpages-widget.php:118
+#: framework/widgets/video-widget.php:101
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: framework/widgets/customcategory-widget.php:122
+msgid "Category to be displayed:"
+msgstr "Thể loại được hiển thị:"
+
+#: framework/widgets/customcategory-widget.php:132
+msgid "Show as dropdown"
+msgstr "Hiển thị như thả xuống"
+
+#: framework/widgets/customcategory-widget.php:138
+msgid "Show post counts"
+msgstr "Số lượng bài"
+
+#: framework/widgets/customcategory-widget.php:144
+msgid "Show hierarchy"
+msgstr "Hiện hệ thống phân cấp"
+
+#: framework/widgets/googlemap-widget.php:39
+msgid "A Google Map widget."
+msgstr "Google Map widget."
+
+#: framework/widgets/googlemap-widget.php:45
+msgid "Betterwork: Google Map"
+msgstr "Betterwork: Google Map"
+
+#: framework/widgets/googlemap-widget.php:127
+msgid "Office location"
+msgstr "Địa điểm văn phòng"
+
+#: framework/widgets/googlemap-widget.php:137
+msgid "Latitude:"
+msgstr "Địa point text room"
+
+#: framework/widgets/googlemap-widget.php:143
+msgid "Longitude:"
+msgstr "Kinh độ:"
+
+#: framework/widgets/googlemap-widget.php:149
+msgid "Zoom Level:"
+msgstr "Phóng to Cấp:"
+
+#: framework/widgets/googlemap-widget.php:154
+msgid "Width of map:"
+msgstr "Chiều rộng của bản đồ:"
+
+#: framework/widgets/googlemap-widget.php:159
+msgid "Height of map:"
+msgstr "Chiều cao của bản đồ:"
+
+#: framework/widgets/latestpost-widget.php:39
+msgid "The most recent posts with teaser text"
+msgstr "Các bài viết gần đây nhất với văn bản trêu ghẹo"
+
+#: framework/widgets/latestpost-widget.php:45
+msgid "Betterwork: Recent Posts"
+msgstr "Betterwork: gần đây Bài viết"
+
+#: framework/widgets/latestpost-widget.php:86
+#, php-format
+msgid "%1$s by %2$s "
+msgstr "%1$s bởi %2$s "
+
+#: framework/widgets/latestpost-widget.php:146
+msgid "Pick a specific category:"
+msgstr "Chọn một thể loại cụ thể:"
+
+#: framework/widgets/latestpost-widget.php:152
+msgid "Number of posts to show:"
+msgstr "Số bài viết để hiển thị:"
+
+#: framework/widgets/latestpost-widget.php:155
+msgid "(at most 15)"
+msgstr "(nhiều nhất là 15)"
+
+#: framework/widgets/latestpost-widget.php:160
+msgid "Number of posts to skip:"
+msgstr "Số bài viết để bỏ qua:"
+
+#: framework/widgets/latestpost-widget.php:163
+msgid "(offset from latest)"
+msgstr "(bù đắp từ mới nhất)"
+
+#: framework/widgets/latestpost-widget.php:168
+msgid "Limit the number of words to show from each post:"
+msgstr "Giới hạn số từ để hiển thị từ mỗi bài viết:"
+
+#: framework/widgets/latestpost-widget.php:171
+msgid "(Could also be limited by \"Excerpt Length\" defined in the theme's options page)"
+msgstr "(Cũng có thể được giới hạn bởi \ \"Excerpt Length\" được định nghĩa trong trang tùy chọn của chủ đề)"
+
+#: framework/widgets/latestpost-widget.php:178
+msgid "Show date & author info"
+msgstr "hiển thị ngày & tác giả thông tin"
+
+#: framework/widgets/latestpost-widget.php:186
+msgid "Show \"Read more &rarr;\" link "
+msgstr "Hiển thị \"Tìm hiểu thêm &rarr;\" liên kết"
+
+#: framework/widgets/latestpost-widget.php:194
+msgid "Show thumbnails"
+msgstr "Hiển thị hình thu nhỏ"
+
+#: framework/widgets/latestpost-widget.php:205
+msgid "Show thumbnail frame shadow"
+msgstr "Hiển thị bóng khung hình thu nhỏ"
+
+#: framework/widgets/latestpost-widget.php:211
+msgid "Thumbnail Dimensions:"
+msgstr "Hình thu nhỏ Kích thước:"
+
+#: framework/widgets/latestpost-widget.php:216
+msgid "(Width X Height) in pixels"
+msgstr "(Width X Height) trong pixels"
+
+#: framework/widgets/newsletter.php:12
+msgid "Widget display the Subscribe box"
+msgstr "Widget hiển thị các hộp Subscribe"
+
+#: framework/widgets/newsletter.php:15
+msgid "Betterwork: - Newsletter"
+msgstr "Betterwork: - Bản tin"
+
+#: framework/widgets/newsletter.php:37
+msgid "Your Email"
+msgstr "Email của bạn"
+
+#: framework/widgets/newsletter.php:40
+msgid "Subscribe"
+msgstr "Theo dõi"
+
+#: framework/widgets/newsletter.php:63
+msgid "Subscribe to our newsletter"
+msgstr "Theo dõi bản tin của chúng tôi"
+
+#: framework/widgets/newsletter.php:69
+msgid "title:"
+msgstr "title:"
+
+#: framework/widgets/newsletter.php:74
+msgid "feedburner name: (your name without http://feeds.feedburner.com/) "
+msgstr "Feedburner tên: (Tên của bạn mà không cần http://feeds.feedburner.com/) "
+
+#: framework/widgets/subpages-widget.php:39
+msgid "Display subpages if present page only."
+msgstr "Hiển thị trang con nếu hiện tại trang."
+
+#: framework/widgets/subpages-widget.php:45
+msgid "Betterwork: Subpages"
+msgstr "Betterwork: Trang con"
+
+#: framework/widgets/subpages-widget.php:121
+msgid "Leave the Title field blank if you would like to display the parent page Title instead."
+msgstr "Để trống trường Tiêu đề nếu bạn muốn hiển thị Tiêu đề trang mẹ."
+
+#: framework/widgets/video-widget.php:40
+msgid "A widget that allows to view video to be added to a sidebar"
+msgstr "Một tiện ích cho phép xem video được thêm vào sidebar"
+
+#: framework/widgets/video-widget.php:43
+msgid "Betterwork: Video"
+msgstr "Betterwork: Video"
+
+#: framework/widgets/video-widget.php:97
+msgid "Video"
+msgstr "video"
+
+#: framework/widgets/video-widget.php:106
+msgid "type"
+msgstr "loại"
+
+#: framework/widgets/video-widget.php:115
+msgid "Video ID:"
+msgstr "Video ID:"
+

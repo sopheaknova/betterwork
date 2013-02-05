@@ -1,0 +1,1180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: betterwork\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-23 16:28+0700\n"
+"PO-Revision-Date: 2012-07-25 08:23+0700\n"
+"Last-Translator: say yan <yan.say99@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Page Not Found (Error 404)"
+msgstr "ការស្វែងរកពុំមានទេ(បហ្ហា404)"
+
+#: 404.php:14
+msgid "Oops..., I cannot find that page you are looking for, sorry... (Error 404)"
+msgstr "ខ្ញុំស្វែងរកគេហះទំព័រលោកអ្នកមិនឃើញទេ(វាមានបហ្ហានៅទំព័រ៤០៤)"
+
+#: 404.php:17
+msgid "Let me help you find it:"
+msgstr "ខ្ញុំអាចជូយស្វែងរកលោកអ្នកបាន"
+
+#: 404.php:20
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>ស្វែងរក</strong> សំរាប់:"
+
+#: 404.php:24
+msgid "<strong>If you typed in a URL...</strong> check the spelling and try reloading the page."
+msgstr "<strong>ប្រសិនបើលោកអ្នកវាយគេហះទំព័រ URL...</strong> សូមត្រូតពិនិតត្យអក្ខរាវិរុទ្ធហើយចាប់ផ្ដើមចុចគេហះទំព័រសារជាថ្មី"
+
+#: 404.php:27
+#, php-format
+msgid "<strong>Start over again</strong> with the %1$sHomepage%2$s."
+msgstr "<strong>ចាប់ផ្ដើមម្ដងទៀត</strong> ជាមួយ %1$sទំព័រដើម%2$s."
+
+#: archive.php:15
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "កន្លែងផ្ទុកឯកសារសំរាប់&#8216;%s&#8217; ប្រភេទនិមួយៗ"
+
+#: archive.php:23
+#: single.php:18
+#, php-format
+msgid "By %1$s on %2$s "
+msgstr "ដោយ %1$s ដល់ %2$s "
+
+#: archive.php:25
+#: single.php:20
+#, php-format
+msgid "On %1$s "
+msgstr "នៅលើ %1$s "
+
+#: archive.php:30
+#: single.php:25
+msgid "Leave a comment"
+msgstr "ចាកចេញពីយោបល់"
+
+#: archive.php:30
+#: comments.php:21
+#: single.php:25
+msgid "1 Comment"
+msgstr "យោបល់ទី១"
+
+#: archive.php:30
+#: comments.php:21
+#: single.php:25
+msgid "% Comments"
+msgstr "%យោបល់"
+
+#: archive.php:30
+#: single.php:25
+msgid "Edit"
+msgstr "កែសារឡើងវិញ"
+
+#: archive.php:31
+#: single.php:26
+msgid "<div>Tags: "
+msgstr "<div>ឃ្លា: "
+
+#: archive.php:55
+#: single.php:38
+msgid "Sorry, no posts matched your criteria."
+msgstr "សូមទោសផង,គ្មានសេចក្ដីមួយណាត្រុវគ្នាលក្ខ័ណរបស់អ្នកទេ"
+
+#: author.php:16
+msgid "Author Archive"
+msgstr "កន្លែងផ្ទុកអ្នកនិពន្ធ"
+
+#: author.php:17
+msgid "About:"
+msgstr "អំពី"
+
+#: author.php:20
+msgid "Profile:"
+msgstr "សេចក្ដីលំអិត"
+
+#: author.php:24
+msgid "Posts by"
+msgstr "ចេញសេចក្ដីដោយ"
+
+#: author.php:32
+msgid "No posts by this author."
+msgstr "គ្មានសេចក្ដីមួយណាសំរាប់អ្នកនិពន្ធនេះទេ"
+
+#: author.php:35
+msgid "Edit this entry."
+msgstr "កែសេចក្ដីសារឡើងវិញ"
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "សេចក្ដីនេះត្រូវការលេខកូដសំងាត់,សូមវាយលេខកូដសំងាត់នៅក្នុងប្រអប់យោបល់"
+
+#: comments.php:21
+msgid "No Responses"
+msgstr "គ្មានការឆ្លើយតប់"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "សេចក្ដីយោបល់ត្រូវបិទ"
+
+#: comments.php:57
+msgid "Leave a Reply"
+msgstr "ចាកចេញពីការឆ្លើយតប់"
+
+#: comments.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "ចេញពីការឆ្លើយទៅកាន់ %s"
+
+#: comments.php:64
+#, php-format
+msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+msgstr "<p>អ្នកត្រូវតែ<a href=\"%s\">logged in</a> បញ្ចេញយោបល់.</p>"
+
+#: comments.php:71
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+msgstr "តូនាទីជា<a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+
+#: comments.php:71
+msgid "Log out of this account"
+msgstr "ចាកចេញពីតូនាទីរបស់អ្នក"
+
+#: comments.php:71
+msgid "Log out &raquo;"
+msgstr "ចាកចេញ"
+
+#: comments.php:76
+#: page-contact.php:134
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+#: comments.php:76
+#: comments.php:79
+#: page-contact.php:142
+#: page-contact.php:148
+msgid "(required)"
+msgstr "តម្រូវការ"
+
+#: comments.php:79
+msgid "Mail (will not be published)"
+msgstr "សារ(នីងមិនត្រូវឃើញទេ)"
+
+#: comments.php:82
+msgid "Website"
+msgstr "គេហះទំព័រ"
+
+#: comments.php:90
+msgid "Submit Comment"
+msgstr "យល់ព្រមយោបល់"
+
+#: index.php:9
+msgid "Donors"
+msgstr "អ្នកឧបត្ថម្ភ"
+
+#: index.php:10
+msgid "The Better Work global programme is funded by ..."
+msgstr "Better Work ចាប់ផ្ដើមចេញផ្សាយជាសារធារណះដោយ..."
+
+#: index.php:11
+msgid "The For a complete list of donors, including country programme donors, please click <a href=\"#\">here</a> ..."
+msgstr "ដើម្បីបំពេញឈ្មោះក្នុងបញ្ជីឧបត្ថម្ភនីងបូករួមទាំងប្រទេសចូលរួម,សូមចុចទីនេះ<a href=\"#\">here</a> ..."
+
+#: index.php:16
+msgid "Latest updated"
+msgstr "ការកែប្រែចុងក្រោយគេបង្ងស់"
+
+#: page-contact.php:49
+#: page-contact.php:137
+msgid "Please enter a name"
+msgstr "សូមបញ្ចូលឈ្មោះ"
+
+#: page-contact.php:51
+#: page-contact.php:138
+msgid "Your name must consist of at least 2 characters"
+msgstr "ឈ្មោះរបស់អ្នកត្រូវតែមានតួអក្សរយ៉ាងហោចណាស់២តួរ"
+
+#: page-contact.php:55
+#: page-contact.php:57
+#: page-contact.php:144
+msgid "Please enter a valid email address"
+msgstr "សូមបញ្ចូលអ៊ីមែលអោយបានត្រីមត្រូវ"
+
+#: page-contact.php:61
+msgid "Please enter your message"
+msgstr "សូមបញ្ចូលសាររបស់អ្នក"
+
+#: page-contact.php:70
+#, php-format
+msgid "Contact Form submission from %s"
+msgstr "ទាក់ទងទំរង់បញ្ចូលតាម"
+
+#: page-contact.php:71
+msgid "Sender's name: "
+msgstr "ឈ្មោះរបស់អ្នកផ្ញើ"
+
+#: page-contact.php:72
+msgid "E-mail: "
+msgstr "អ៊ីមែល"
+
+#: page-contact.php:73
+msgid "Message: "
+msgstr "សារ"
+
+#: page-contact.php:106
+msgid "Tel"
+msgstr "លេខទូរសព្ទ"
+
+#: page-contact.php:107
+msgid "Fax"
+msgstr "ហ្វាក់"
+
+#: page-contact.php:108
+msgid "Email"
+msgstr "អ៊ីមែល"
+
+#: page-contact.php:119
+msgid "Email Successfully Sent!"
+msgstr "ផ្ញើសារបានជោកជយ័"
+
+#: page-contact.php:120
+#, php-format
+msgid "Thank you <strong>%s</strong> for using our contact form! Your email was successfully sent and we will be in touch with you shortly."
+msgstr "អគុណ <strong>%s</strong>សំរាប់ការទាក់ទងរបស់អ្នកអ៊ីមែលរបស់អ្នកបានសម្រេចហើយយើងនីងទាក់ទងទៅអ្នកវិញក្នុងពេលឆាប់ៗនេះ"
+
+#: page-contact.php:126
+msgid "Failed to connect to mailserver!"
+msgstr "ការទាក់ទងទៅកាន់របស់អ្នកមិនបានសម្រេចទេ"
+
+#: page-contact.php:132
+msgid "Please use the form below to send us an email:"
+msgstr "សូមបំពេញទំរង់ខាងក្រោមដើម្បីផ្ញើអ៊ីមែល"
+
+#: page-contact.php:134
+msgid "(required, at least 2 characters)"
+msgstr "ត្រូវការយ៉ាងហោចណាស់,អក្សរ២តួរ"
+
+#: page-contact.php:136
+msgid "required"
+msgstr "ត្រូវការ"
+
+#: page-contact.php:142
+msgid "E-Mail"
+msgstr "អ៊ីមែល"
+
+#: page-contact.php:148
+msgid "Your comment"
+msgstr "សេចក្ដីរបស់អ្នក"
+
+#: page-contact.php:150
+msgid "<br />Please enter your message"
+msgstr "<br />សូមបញ្ចូលសាររបស់អ្នក"
+
+#: page-contact.php:162
+msgid "Submit"
+msgstr "យល់ព្រម"
+
+#: search.php:20
+#, php-format
+msgid "Search Results for &#8216;<em>%s</em>&#8217;"
+msgstr "ស្វែងរកមើលសំរាប់ &#8216;<em>%s</em>&#8217;"
+
+#: search.php:55
+msgid "Didn't find what you were looking for? Refine your search again!"
+msgstr "តើអ្នកស្វែងរកមិនឃើញទេរី?សូមព្យាយាមម្ដងទៀត!"
+
+#: searchform.php:4
+msgid "Search..."
+msgstr "ស្វែងរក..."
+
+#: sidebar.php:8
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -&gt; Widgets</em></strong> and place widgets into the <strong><em>"
+msgstr "កែប្រែផ្នែកនេះ,ទៅកាន់Admin<strong><em>Appearance -&gt; Widgets</em></strong> ដាក់ widgets ទៅកាន់ <strong><em>"
+
+#: sidebar.php:16
+#: sidebar.php:28
+msgid "Go to to admin backend <strong><em> -&gt; edit this page/post</em></strong>"
+msgstr "ទៅកាន់admin<strong><em> -&gt; edit this page/post</em></strong>"
+
+#: sidebar.php:17
+#: sidebar.php:29
+msgid "Select Sidebar name under <strong><em>Sidebar Panel</em></strong>"
+msgstr "ជ្រើសរើសឈ្មោះ Sidebar ខាងក្រោម <strong><em>Sidebar Panel</em></strong>"
+
+#: sidebar.php:18
+#: sidebar.php:30
+msgid "<strong><em>Appearance -&gt; Widgets</em></strong> and place widgets into the <strong><em>Sidebar</em></strong> you selected"
+msgstr "<strong><em>Appearance -&gt; Widgets</em></strong> ដាក់ widgets ទៅកាន់ <strong><em>Sidebar</em></strong> អ្នកជ្រើសរើសរួចហើយ"
+
+#: framework/main.php:141
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#: framework/main.php:145
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: framework/main.php:169
+#: framework/main.php:191
+msgid "Home"
+msgstr "ទំព័រដើម"
+
+#: framework/main.php:201
+msgid "Search for:"
+msgstr "ស្វែងរក:"
+
+#: framework/main.php:203
+msgid "Search"
+msgstr "ស្វែងរក"
+
+#: framework/main.php:223
+#, php-format
+msgid "<span class=\"time\">%1$s</span> on <a href=\"#comment-%2$s\" title=\"\">%3$s</a>"
+msgstr "<span class=\"time\">%1$s</span> លើ <a href=\"#comment-%2$s\" title=\"\">%3$s</a>"
+
+#: framework/main.php:223
+msgid "g:i a"
+msgstr "g:i a"
+
+#: framework/main.php:223
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: framework/main.php:224
+msgid "edit"
+msgstr "កែប្រែ"
+
+#: framework/main.php:230
+msgid "Your comment is awaiting moderation."
+msgstr "សេចក្ដីរបស់អ្នកគីត្រូវបានទទួលហើយ"
+
+#: framework/main.php:272
+msgid "Search Results for:"
+msgstr "ស្វែងរកដើម្បី:"
+
+#: framework/main.php:276
+msgid "Category Archives:"
+msgstr "ប្រភេទទំព័រចាស់"
+
+#: framework/main.php:280
+msgid "Tag Archives:"
+msgstr "ទំព័រចាស់"
+
+#: framework/main.php:284
+msgid "Not Found"
+msgstr "ស្វែងរកមិនឃើញទេ"
+
+#: framework/main.php:384
+msgid "There is no excerpt because this is a protected post."
+msgstr "មិនអាចទទួលបានទេពិព្រោះតែជាសេចក្ដីត្រូវបានការពារ"
+
+#: framework/main.php:680
+msgid "Read more"
+msgstr "សេចក្ដីលំអិត"
+
+#: framework/main.php:698
+#: framework/main.php:720
+#: framework/main.php:742
+#: framework/main.php:764
+msgid "Read more..."
+msgstr "សេចក្ដីលំអិត..."
+
+#: framework/main.php:792
+msgid "Top of Page"
+msgstr "ទំព័រខាងលើ"
+
+#: framework/main.php:792
+msgid "Back to Top"
+msgstr "ត្រឡប់ទៅកាន់ខាងលើ"
+
+#: framework/main.php:1094
+msgid "Latest Posts"
+msgstr "សេចក្ដីចុងក្រោយ"
+
+#: framework/main.php:1111
+#, php-format
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr "%s:មិនឃើញ Widget​ទេ។សូមប្រាកដថាមានWidget ហើយត្រីមត្រូវ "
+
+#: framework/main.php:1186
+msgid "A widget area, used as a sidebar for pages,post or single story."
+msgstr "A widget area, used as a sidebar for pages,post or single story."
+
+#: framework/main.php:1195
+msgid "A widget area, used as a sidebar for regular pages."
+msgstr "A widget area, used as a sidebar for regular pages."
+
+#: framework/main.php:1204
+msgid "A widget area, used as a sidebar for regular single stories."
+msgstr "A widget area, used as a sidebar for regular single stories."
+
+#: framework/main.php:1213
+msgid "A widget area, used as a sidebar for the Contact page."
+msgstr "A widget area, used as a sidebar for the Contact page."
+
+#: framework/main.php:1222
+msgid "A widget area, used as a sidebar for quick view on homepage"
+msgstr "A widget area, used as a sidebar សំរាប់បង្ហាញនៅទំព័រដើម"
+
+#: framework/main.php:1231
+msgid "A widget area, used as a sidebar for place Donor Widget."
+msgstr "A widget area, used as a sidebar សំរាប់ដាក់Dornor Widget."
+
+#: framework/admin/options-backup.php:69
+msgid "Options Import / Export"
+msgstr "ជម្រើសទាញចូល/ទាញចេញ"
+
+#: framework/admin/options-backup.php:69
+#: framework/admin/options-backup.php:108
+msgid "Import / Export"
+msgstr "ចូល/ចេញ"
+
+#: framework/admin/options-backup.php:111
+msgid "Import Settings"
+msgstr "ការកំណត់ការទាញចូល"
+
+#: framework/admin/options-backup.php:113
+msgid "If you have settings in a backup file on your computer, the Import / Export system can import those into this site. To get started, upload your backup file to import from below."
+msgstr "ប្រសិនបើអ្នករៀបចំឯកសារនៅលើម៉ាស៊ីនរបស់អ្នក,ការទាញចូល/ការទាញចេញគីសំខាន់នៅផ្នែកនេះ។ដើម្បីចាប់ផ្ដើម,ការupload ឯកសាររបស់អ្នកទៅកាន់ផ្នែកខាងក្រោម"
+
+#: framework/admin/options-backup.php:118
+#, php-format
+msgid "Upload File: (Maximum Size: %s)"
+msgstr "Upload File: (Maximum Size: %s)"
+
+#: framework/admin/options-backup.php:121
+msgid "Upload File and Import"
+msgstr "ទាញឯកសារ​ហើយបញ្ចូល"
+
+#: framework/admin/options-backup.php:128
+msgid "Export Settings"
+msgstr "ការកំណត់ការទាញចេញ"
+
+#: framework/admin/options-backup.php:130
+msgid "When you click the button below, the Import / Export system will create a text file for you to save to your computer."
+msgstr "ពេលចុចប្រអប់ខាងក្រោម,ការទាញចូល/ការទាញចេញនីងបង្កើតfile មួយសំរាប់រក្សារទុកក្នុងម់ាស៊ីនរបស់អ្នក"
+
+#: framework/admin/options-backup.php:131
+#, php-format
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings\"."
+msgstr "ឯកសារនេះអាចទាញយកមកកំណត់វិញនៅទីនេះ \"%s\",រីលោកអ្នកអាចចាប់ផ្ដើមថ្មីមួយទៀត"
+
+#: framework/admin/options-backup.php:136
+msgid "Download Export File"
+msgstr "ទាញយកឯកសារ"
+
+#: framework/admin/options-backup.php:161
+msgid "Welcome to the Options Backup Manager."
+msgstr "សូមស្វាគមន៍មកកាន់អ្នករក្សារទុក"
+
+#: framework/admin/options-backup.php:162
+msgid "Here are a few notes on using this screen."
+msgstr "មានការកត់ចំណាំការប្រើប្រាស់នៅលើscreen"
+
+#: framework/admin/options-backup.php:163
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr "អ្នកអាចទាញយករីរក្សារទុកឡើងវិញនៅ\"Theme Options\" ហើយអាចកំណត់ផ្នែកផ្សេងទៀតពីឯកសាររបស់អ្នក"
+
+#: framework/admin/options-backup.php:164
+msgid "To create a backup, simply select the setting type you'd like to backup (or \"All Settings\") and hit the \"Download Export File\" button."
+msgstr "ដើម្បីបង្កើតកន្លែងរក្សារទុក,ជ្រើសរើសប្រភេទអ្នកចង់រក្សារទុក(រី \"All Settings\") and hit the \"Download Export File\" button."
+
+#: framework/admin/options-backup.php:165
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr "ដើម្បីទាញការកំណត់របស់អ្នក, browse ឯកសាររបស់អ្នកពីម់ាស៊ីន (ខាងក្រោម \"Import Settings\" heading) and hit the \"Upload File and Import\" button. វានីងទាញយកតែការរក្សារទុកចុងក្រោយ"
+
+#: framework/admin/options-backup.php:167
+msgid "Please note that only valid backup files generated through the OptionsFramework Backup Manager should be imported."
+msgstr "សូមកត់ចំណាំថាមានតែឯកសារត្រីមត្រូវទេទើបបញ្ចូលក្នុងOptionsFramework  អ្នករក្សារទុក"
+
+#: framework/admin/options-backup.php:169
+msgid "Looking for assistance?"
+msgstr "តើត្រូវការជំនួយទេ?"
+
+#: framework/admin/options-backup.php:189
+#, php-format
+msgid "Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr "«Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%"
+
+#: framework/admin/options-backup.php:192
+msgid "There was a problem importing your settings. Please Try again."
+msgstr "ការកំណត់ការទាញចូលលោកអ្នកមានបហ្ហា។សូមព្យាយាមម្ដងទៀត"
+
+#: framework/admin/options-backup.php:194
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr "ការកំណត់ទាញចេញរបស់អ្នកមានបហ្ហា។សូមព្យាយាមម្ដងទៀត"
+
+#: framework/admin/options-backup.php:196
+msgid "The import file you've provided is invalid. Please try again."
+msgstr "ឯកសាររបស់អ្នកមិនត្រីមត្រូវទេ។សូមព្យាយាមម្ដងទៀត"
+
+#: framework/admin/options-backup.php:198
+#, php-format
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr "ការទាញចូលរបស់អ្នកជោគជយ័។| ត្រឡប់ទៅកាន់ %sTheme Options%s"
+
+#: framework/admin/options-framework.php:277
+msgid "Save Options"
+msgstr "ការកំណត់ការរក្សារទុក"
+
+#: framework/admin/options-framework.php:278
+msgid "Restore Defaults"
+msgstr "កន្លែងរក្សារទុក"
+
+#: framework/admin/options-framework.php:278
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "ចុចលើOK ដើម្បីលប់។Theme ផ្សេងៗទៀតនីងបាត់"
+
+#: framework/admin/options-framework.php:309
+msgid "Default options restored."
+msgstr "ការជ្រើសរើសការរក្សារទុក"
+
+#: framework/admin/options-framework.php:360
+msgid "Options saved."
+msgstr "ជម្រើសរក្សារទុក"
+
+#: framework/admin/options-framework.php:418
+msgid "Theme Options"
+msgstr "ជម្រើសTheme"
+
+#: framework/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr "ជម្រើសFramework ខាងក្នុង"
+
+#: framework/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr "ទាញយក"
+
+#: framework/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr "បង្ហាញឯកសារ"
+
+#: framework/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr "រូបភាព"
+
+#: framework/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr "ការទាញយកពីខាងដើម"
+
+#: framework/admin/options.php:101
+msgid "general Settings"
+msgstr "ការកំណត់ទូទៅ"
+
+#: framework/admin/options.php:106
+msgid "the logo"
+msgstr "the logo"
+
+#: framework/admin/options.php:108
+msgid "upload custom logo"
+msgstr "កន្លែងទាញយកlogo"
+
+#: framework/admin/options.php:113
+msgid "favicon"
+msgstr "favicon"
+
+#: framework/admin/options.php:114
+msgid "upload your favicon"
+msgstr "ទាញយកfavicon"
+
+#: framework/admin/options.php:119
+msgid "Scroll to top button"
+msgstr "ទៅខាងលើ"
+
+#: framework/admin/options.php:121
+msgid "Enable or disable Scroll to top button"
+msgstr "អាចរីមិនអាចទៅខាងលើ"
+
+#: framework/admin/options.php:126
+msgid "Scroll To Top Image"
+msgstr "ទៅកាន់រូបភាពខាងលើ"
+
+#: framework/admin/options.php:128
+msgid "upload custom Scroll to top image"
+msgstr "កន្លែងទាញយកទៅកាន់រូបភាពខាងលើ"
+
+#: framework/admin/options.php:132
+msgid "Enable prettyPhoto_script"
+msgstr "អាច prettyPhoto_script"
+
+#: framework/admin/options.php:134
+msgid "Enable or disable big photo when user click on thumbnail photo in each post/page."
+msgstr "អាចរីមិនអាចអោយរូបភាពធំពេលអ្នកប្រើចុចលើរូបភាពthumbnail ក្នុងpost/page​និមួយៗ"
+
+#: framework/admin/options.php:139
+msgid "Google analytics"
+msgstr "Google analytics"
+
+#: framework/admin/options.php:140
+msgid "google analytics or any Script, it will be add before closing of body tag"
+msgstr "google analytics or any Script, វាអាចបញ្ចូលមុនពេលបិតtag"
+
+#: framework/admin/options.php:145
+msgid "Feedburner"
+msgstr "Feedburner"
+
+#: framework/admin/options.php:154
+msgid "Post settings"
+msgstr "កំណត់សេចក្ដី"
+
+#: framework/admin/options.php:159
+msgid "Article Elements"
+msgstr "សេចក្ដីអត្ថបទ"
+
+#: framework/admin/options.php:161
+msgid "Show/Hide any article Element, in home/category/article"
+msgstr "បង្ហាញ/លាក់អត្ថបទ,ក្នុងទំព័រដើម/ប្រភេទ/អត្ថបទ"
+
+#: framework/admin/options.php:164
+msgid "show/hide the excerpt instead of the full post content"
+msgstr "បង្ហាញ/លាក់the excerpt ជំនួសសេចក្ដីទាំងមូល"
+
+#: framework/admin/options.php:167
+msgid "show/hide the excerpt instead of the full post content in the archive page."
+msgstr "បង្ហាញ/លាក់the excerpt ជំនួសអោយទំព័រចាស់"
+
+#: framework/admin/options.php:171
+msgid "Learn more text"
+msgstr "សេចក្ដីបន្ថែម"
+
+#: framework/admin/options.php:173
+msgid "learn more"
+msgstr "សេចក្ដីលំអិត"
+
+#: framework/admin/options.php:177
+msgid "See all text"
+msgstr "អត្ថបទទាំងអស់"
+
+#: framework/admin/options.php:179
+msgid "See all"
+msgstr "ទាំងអស់"
+
+#: framework/admin/options.php:183
+msgid "Change the excerpt length number"
+msgstr "ប្ដូចចំនួនthe excerpt "
+
+#: framework/admin/options.php:186
+msgid "This number refers to the number of words to show."
+msgstr "លេខសំរាប់ពាក្យបង្ហាញ"
+
+#: framework/admin/options.php:190
+msgid "Read More Link"
+msgstr "អានបន្ត"
+
+#: framework/admin/options.php:193
+msgid "Enter the text for the post's 'Read more' link. Leave blank to hide it. "
+msgstr "បញ្ចូលអត្ថបទសំរាប់សេចក្ដីអានបន្ត។ចាកចេញហើយលាក់"
+
+#: framework/admin/options.php:197
+msgid "Show Author Name"
+msgstr "បង្ហាញឈ្មោះអ្នកនិពន្ធ"
+
+#: framework/admin/options.php:200
+msgid "Show/hide the author's name. "
+msgstr "បង្ហាញ/លាក់​ឈ្មោះអ្នកនិពន្ធ"
+
+#: framework/admin/options.php:204
+msgid "Post Tags"
+msgstr "កន្លែងសេចក្ដី"
+
+#: framework/admin/options.php:207
+msgid "Show/hide Post Tags"
+msgstr "បង្ហាញ៊/លាក់កន្លែងសេចក្ដី"
+
+#: framework/admin/options.php:211
+msgid "Enable \"Featured Image\" in archive page"
+msgstr "បង្ហាញ\"Featured Image\" ក្នុងទំព័រចាស់"
+
+#: framework/admin/options.php:214
+msgid "Show/hide thumbnails image in archive page"
+msgstr "បង្ហាញ/លាក់រូបភាពតូតៗនៅក្នុងទំព័រចាស់"
+
+#: framework/admin/options.php:222
+#: framework/admin/options.php:227
+msgid "Article Share"
+msgstr "រំលែកអត្ថបត"
+
+#: framework/admin/options.php:229
+msgid "Enable/disable the share networks under every article"
+msgstr "បង្ហាញ/លាក់បណ្ដាញចែករំលែកនៅរាល់អត្ថបត"
+
+#: framework/admin/options.php:232
+msgid "Disable Share"
+msgstr "លាក់ការចែករំលែក"
+
+#: framework/admin/options.php:238
+#: framework/admin/options.php:495
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/admin/options.php:244
+msgid "Google+"
+msgstr "Google+"
+
+#: framework/admin/options.php:250
+#: framework/admin/options.php:484
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/admin/options.php:256
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: framework/admin/options.php:262
+msgid "Stumble Upon"
+msgstr "Stumble Upon"
+
+#: framework/admin/options.php:268
+msgid "Digg"
+msgstr "Digg"
+
+#: framework/admin/options.php:274
+msgid "Evernote"
+msgstr "Evernote"
+
+#: framework/admin/options.php:280
+msgid "Reddit"
+msgstr "Reddit"
+
+#: framework/admin/options.php:287
+msgid "Pin It"
+msgstr "Pin It"
+
+#: framework/admin/options.php:298
+#: framework/posttype/custom-post-type.php:8
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: framework/admin/options.php:304
+msgid "Animation & Effects"
+msgstr "Animation & Effects"
+
+#: framework/admin/options.php:308
+msgid "Effect"
+msgstr "Effect"
+
+#: framework/admin/options.php:309
+msgid "name of transition effect"
+msgstr "ឈ្មោះរបស់transition effect"
+
+#: framework/admin/options.php:316
+msgid "easing"
+msgstr "easing"
+
+#: framework/admin/options.php:317
+msgid "easing method for transitions <a href=\"http://ralphwhitbeck.com/demos/jqueryui/effects/easing/\">more info</a>"
+msgstr "easing method for transitions <a href=\"http://ralphwhitbeck.com/demos/jqueryui/effects/easing/\">ពត័រមានបន្ថែម</a>"
+
+#: framework/admin/options.php:323
+msgid "Speed"
+msgstr "ល្បឿន"
+
+#: framework/admin/options.php:324
+msgid "speed of the transition"
+msgstr "ល្បឿនរបស់transition"
+
+#: framework/admin/options.php:334
+msgid "timeout"
+msgstr "កំណត់ពេលវេលា"
+
+#: framework/admin/options.php:335
+msgid "milliseconds between slide transitions"
+msgstr "វិនាទីរវាងការរអិលtransition"
+
+#: framework/admin/options.php:349
+msgid "Contact Forms"
+msgstr "ទំរង់ធ្វើការទំនាក់ទំនង"
+
+#: framework/admin/options.php:372
+msgid "Contact Fields"
+msgstr "ល្បាយទំនាក់ទំនង"
+
+#: framework/admin/options.php:374
+msgid "The Contact Fields provide a way to better display additional contact information such as Company Name, Address, Phone, etc"
+msgstr "ល្បាយទំនាក់ទំនងដែលនឹងបង្ហាញពត័រមានមានដូចជាឈ្មោះក្រុមហ៊ុន,អាសាយដ្ថាន,លេខទូរសព្ទជាដើម......"
+
+#: framework/admin/options.php:377
+msgid "Address"
+msgstr "អាសាយដ្ថាន"
+
+#: framework/admin/options.php:380
+msgid "Please add your address here."
+msgstr "សូមបំពេញអាសាយដ្ថានរបស់អ្នកនៅទីនេះ"
+
+#: framework/admin/options.php:384
+msgid "Telephone Number"
+msgstr "លេខទូរសព្ទ"
+
+#: framework/admin/options.php:387
+msgid "Please add your telephone number here."
+msgstr "សូមបំពេញលេខទូរសព្ទរបស់អ្នកនៅទីនេះ"
+
+#: framework/admin/options.php:391
+msgid "Fax Number"
+msgstr "លេខFax"
+
+#: framework/admin/options.php:394
+msgid "Please add your fax number here."
+msgstr "សូមបំពេញលេខfaxរបស់អ្នកនៅទីនេះ"
+
+#: framework/admin/options.php:398
+msgid "Email Form"
+msgstr "ទំរង់របស់អ៊ីមែល"
+
+#: framework/admin/options.php:400
+msgid "A way to show/hide form, and who will receive email"
+msgstr "របៀបបង្ហាញ/លាក់ទំរង់,ហើយលោកអ្នកនឹងទទួលបានអ៊ីមែល"
+
+#: framework/admin/options.php:403
+msgid "Enable email form"
+msgstr "បង្ហាញទំរង់អ៊ីមែល"
+
+#: framework/admin/options.php:409
+msgid "Recipient Email"
+msgstr "កន្លែងទទួលអ៊ីមែល"
+
+#: framework/admin/options.php:412
+msgid "Please enter recipient's email address, comma-separate multiple recipients"
+msgstr "សូមបញ្ចូលអ៊ីមែលកន្លែងបញ្ចូល,អាចចែកដោយcommaបានច្រើន"
+
+#: framework/admin/options.php:416
+msgid "Enable ReCAPTCHA"
+msgstr "បង្ហាញReCAPTHCHA"
+
+#: framework/admin/options.php:419
+msgid "Add ReCAPTCHA to the email form for extra security (for more information visit <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>)"
+msgstr "បញ្ចូល ReCAPTCHA ទៅកាន់ទំរង់របស់អ៊ីមេល ដើម្បីបន្ថែនសុវត្តិភាព (មើលពត័រមានបន្ថែន <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>)"
+
+#: framework/admin/options.php:423
+msgid "ReCAPTCHA Public Key"
+msgstr "ReCAPTCHA Public Key"
+
+#: framework/admin/options.php:425
+msgid "To use reCAPTCHA you must get an API public key from <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>"
+msgstr "ដើម្បីប្រើ reCAPTCHA អ្នកត្រូវតែទទួល API public key ពី <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>"
+
+#: framework/admin/options.php:429
+msgid "ReCAPTCHA Private Key"
+msgstr "ReCAPTCHA Private Key"
+
+#: framework/admin/options.php:431
+msgid "To use reCAPTCHA you must get an API private key from <a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>"
+msgstr "ដើម្បីប្រើ reCAPTCHA អ្នកត្រូវតែទទួល API private key ពី<a href=\"www.recaptcha.net\" target=\"_blank\">www.recaptcha.net</a>"
+
+#: framework/admin/options.php:435
+msgid "ReCAPTCHA Theme"
+msgstr "ReCAPTCHA Theme"
+
+#: framework/admin/options.php:437
+msgid "Choose Theme: White, Red, Blackglass and Clean, use to protect auto mail sender"
+msgstr "ជ្រើសរើស Theme: សរ, ក្រហម,ខ្មៅថ្លា, ដើម្បីការពារអ្នកផ្ញើមែលដោយខ្លួនឯង"
+
+#: framework/admin/options.php:447
+msgid "Footer"
+msgstr "Footer"
+
+#: framework/admin/options.php:453
+msgid "copyrights"
+msgstr "copyrights"
+
+#: framework/admin/options.php:454
+msgid "footer copyrights text"
+msgstr "footer copyrights អត្ថបទ"
+
+#: framework/admin/options.php:456
+msgid "© 2012 Betterwork. All rights reserved."
+msgstr "© 2012 Betterwork. All rights reserved."
+
+#: framework/admin/options.php:460
+msgid "Custom logo 1"
+msgstr "Custom logo 1"
+
+#: framework/admin/options.php:461
+msgid "footer custom logo, (optional): if you do not upload new logo image, it use ILO logo"
+msgstr "footer custom logo, (ជម្រើស): ប្រសិនបើអ្នកមិនទាញយកlogoថ្មី, វានឹងប្រើ ILO logo"
+
+#: framework/admin/options.php:466
+msgid "Custom logo 2"
+msgstr "Custom logo 2"
+
+#: framework/admin/options.php:467
+msgid "footer custom logo, (optional): if you do not upload new logo image, it use IFC logo"
+msgstr "footer custom logo, (ជម្រើស): ប្រសិនបើអ្នកមិនទាញយកlogoថ្មី, វាប្រើ IFC logo"
+
+#: framework/admin/options.php:473
+msgid "Social Networks"
+msgstr "បញ្ដាណសង្គម"
+
+#: framework/admin/options.php:475
+msgid "Control in the bottom social icons, Paste the URL of your favorite social networks or leave empty to hide icons"
+msgstr "គ្រប់គ្រងបូតុងរូបភាពសង្គម,ចម្លងគេហៈទំព័ររបស់បញ្ដាណសង្គមរឺចាកចេញដើម្បីលាក់រូបភាព"
+
+#: framework/admin/options.php:478
+msgid "Join message"
+msgstr "ចូលរួមសារ"
+
+#: framework/admin/options.php:480
+msgid "Join us on"
+msgstr "ចូលរួមជាមួយយើង"
+
+#: framework/admin/options.php:490
+msgid "Youtube"
+msgstr "Youtube"
+
+#: framework/functions/sidebar-generator.php:175
+#: framework/functions/sidebar-generator.php:197
+msgid "Custom Sidebars"
+msgstr "Custom Sidebars"
+
+#: framework/functions/sidebar-generator.php:228
+msgid "No Sidebars defined"
+msgstr "គ្មាន Sidebars "
+
+#: framework/functions/sidebar-generator.php:278
+msgid "Select the custom sidebar, leave unselected to use the default sidebar"
+msgstr "ជ្រើសរើស the custom sidebar, ចាកចេញដោយមិនជ្រើសរើសthe default sidebar"
+
+#: framework/metaboxes/theme-metaboxes.php:33
+msgid "Put the link/url of page. (optional)"
+msgstr "បញ្ចូល the link/គេហៈតំព័រ. (ជម្រើស)"
+
+#: framework/metaboxes/theme-metaboxes.php:39
+msgid "Upload image slide. Size should be 952px X 330px"
+msgstr "ទាញយករូបភាព slide. ទំហំរូបភាពគួតែ 952px X 330px"
+
+#: framework/posttype/custom-post-type.php:9
+msgid "slideshow"
+msgstr "slideshow"
+
+#: framework/posttype/custom-post-type.php:10
+msgid "Add New"
+msgstr "បញ្ចូលថ្មី"
+
+#: framework/posttype/custom-post-type.php:11
+msgid "Add New slideshow"
+msgstr "បញ្ចូល slideshowថ្មី"
+
+#: framework/posttype/custom-post-type.php:12
+msgid "Edit slideshow"
+msgstr "កែប្រែ slideshowជាថ្មី"
+
+#: framework/posttype/custom-post-type.php:13
+msgid "New slideshow"
+msgstr "បញ្ចូល slideshowថ្មី"
+
+#: framework/posttype/custom-post-type.php:14
+msgid "View slideshow"
+msgstr "បង្ហាញslideshow"
+
+#: framework/posttype/custom-post-type.php:15
+msgid "Search slideshow"
+msgstr "ស្វែងរក slideshow"
+
+#: framework/posttype/custom-post-type.php:16
+msgid "No slideshow found"
+msgstr "គ្មានslideshow ត្រូវស្វែងរកឃើញទេ"
+
+#: framework/posttype/custom-post-type.php:17
+msgid "No slideshow found in Trash"
+msgstr "ស្វែងរក slideshow ក្នុងប្រអប់លប់បណ្ដោះអាសន្នទេ"
+
+#: framework/widgets/customcategory-widget.php:39
+msgid "A list or dropdown of a single category's descendants."
+msgstr "A list or dropdown of a single category's descendants."
+
+#: framework/widgets/customcategory-widget.php:45
+msgid "Betterwork:: Custom Category"
+msgstr "Betterwork::ប្រភេទរបស់ Custom"
+
+#: framework/widgets/customcategory-widget.php:111
+msgid "Categories"
+msgstr "ប្រភេទនិមួយៗ"
+
+#: framework/widgets/customcategory-widget.php:116
+#: framework/widgets/googlemap-widget.php:132
+#: framework/widgets/latestpost-widget.php:140
+#: framework/widgets/subpages-widget.php:118
+#: framework/widgets/video-widget.php:101
+msgid "Title:"
+msgstr "ចំនងជើងៈ"
+
+#: framework/widgets/customcategory-widget.php:122
+msgid "Category to be displayed:"
+msgstr "ដាក់ជាប្រភេទដើម្បីបង្ហាញ"
+
+#: framework/widgets/customcategory-widget.php:132
+msgid "Show as dropdown"
+msgstr "បង្ហាញជាdropdown"
+
+#: framework/widgets/customcategory-widget.php:138
+msgid "Show post counts"
+msgstr "បង្ហាញចំនួនសេចក្ដី"
+
+#: framework/widgets/customcategory-widget.php:144
+msgid "Show hierarchy"
+msgstr "បង្ហាញតាមលំដាប់ថ្នាក់"
+
+#: framework/widgets/googlemap-widget.php:39
+msgid "A Google Map widget."
+msgstr "A Google Map widget."
+
+#: framework/widgets/googlemap-widget.php:45
+msgid "Betterwork: Google Map"
+msgstr "Betterwork: Google Map"
+
+#: framework/widgets/googlemap-widget.php:127
+msgid "Office location"
+msgstr "កន្លែងការិយ៉ាល័យ"
+
+#: framework/widgets/googlemap-widget.php:137
+msgid "Latitude:"
+msgstr "រយៈទទឹង:"
+
+#: framework/widgets/googlemap-widget.php:143
+msgid "Longitude:"
+msgstr "រយៈបណ្ដោយៈ"
+
+#: framework/widgets/googlemap-widget.php:149
+msgid "Zoom Level:"
+msgstr "កំរឹតការេពង្រីក"
+
+#: framework/widgets/googlemap-widget.php:154
+msgid "Width of map:"
+msgstr "ប្រវែងរបស់ផែនទីៈ"
+
+#: framework/widgets/googlemap-widget.php:159
+msgid "Height of map:"
+msgstr "កំពស់របស់ផែនទីៈ"
+
+#: framework/widgets/latestpost-widget.php:39
+msgid "The most recent posts with teaser text"
+msgstr "សេចក្ដីថ្មីៗជាមួយអត្ថបត"
+
+#: framework/widgets/latestpost-widget.php:45
+msgid "Betterwork: Recent Posts"
+msgstr "Betterwork: សេចក្ដីថ្មីៗ"
+
+#: framework/widgets/latestpost-widget.php:86
+#, php-format
+msgid "%1$s by %2$s "
+msgstr "%1$s ដោយ %2$s "
+
+#: framework/widgets/latestpost-widget.php:146
+msgid "Pick a specific category:"
+msgstr "ជ្រើសរើសប្រភេតសំខាន់មួយៈ"
+
+#: framework/widgets/latestpost-widget.php:152
+msgid "Number of posts to show:"
+msgstr "ចំនួនរបស់សេចក្ដីត្រូវបង្ហាញៈ"
+
+#: framework/widgets/latestpost-widget.php:155
+msgid "(at most 15)"
+msgstr "(ជាធម្មតា១៥)"
+
+#: framework/widgets/latestpost-widget.php:160
+msgid "Number of posts to skip:"
+msgstr "ចំនួនរបស់សេចក្ដីត្រូវបិតទុកៈ"
+
+#: framework/widgets/latestpost-widget.php:163
+msgid "(offset from latest)"
+msgstr "(ការទូទាត់រហូតដល់ចុងក្រោយ)"
+
+#: framework/widgets/latestpost-widget.php:168
+msgid "Limit the number of words to show from each post:"
+msgstr "កំណត់ចំនួនរបស់ពាក្យត្រួវបង្ហាញរាល់សេចក្ដី:"
+
+#: framework/widgets/latestpost-widget.php:171
+msgid "(Could also be limited by \"Excerpt Length\" defined in the theme's options page)"
+msgstr "(អាចកំណត់ដោយ \"Excerpt Length\" កំណត់ទំព័ររបស់theme)"
+
+#: framework/widgets/latestpost-widget.php:178
+msgid "Show date & author info"
+msgstr "បង្ហាញថ្ងៃទី&ពត័រមានរបស់អ្នកនិពន្ធ"
+
+#: framework/widgets/latestpost-widget.php:186
+msgid "Show \"Read more &rarr;\" link "
+msgstr "បង្ហាញ \"អានបន្ត &rarr;\" link "
+
+#: framework/widgets/latestpost-widget.php:194
+msgid "Show thumbnails"
+msgstr "បង្ហាញthumbnails"
+
+#: framework/widgets/latestpost-widget.php:205
+msgid "Show thumbnail frame shadow"
+msgstr "បង្ហាញthumbnail frame shadow"
+
+#: framework/widgets/latestpost-widget.php:211
+msgid "Thumbnail Dimensions:"
+msgstr "Thumbnail Dimensions:"
+
+#: framework/widgets/latestpost-widget.php:216
+msgid "(Width X Height) in pixels"
+msgstr "(ប្រវែង X កំពស់) in pixels"
+
+#: framework/widgets/newsletter.php:12
+msgid "Widget display the Subscribe box"
+msgstr "ប្រអប់បង្ហាញការទិញ Widget"
+
+#: framework/widgets/newsletter.php:15
+msgid "Betterwork: - Newsletter"
+msgstr "Betterwork: - ការសែត"
+
+#: framework/widgets/newsletter.php:37
+msgid "Your Email"
+msgstr "អ៊ីមែលរបស់អ្នក"
+
+#: framework/widgets/newsletter.php:40
+msgid "Subscribe"
+msgstr "ការទិញជាប្រចាំ"
+
+#: framework/widgets/newsletter.php:63
+msgid "Subscribe to our newsletter"
+msgstr "ការទិញការសែតរបស់យើង"
+
+#: framework/widgets/newsletter.php:69
+msgid "title:"
+msgstr "ចំនងជើងៈ"
+
+#: framework/widgets/newsletter.php:74
+msgid "feedburner name: (your name without http://feeds.feedburner.com/) "
+msgstr "ឈ្មោះរបស់feedburner: (ឈ្មោះរបស់អ្នកដោយគ្មាន http://feeds.feedburner.com/) "
+
+#: framework/widgets/subpages-widget.php:39
+msgid "Display subpages if present page only."
+msgstr "បង្ហាញទំព័របន្ទាប់ប្រសិនបើជាទំព័រមេ"
+
+#: framework/widgets/subpages-widget.php:45
+msgid "Betterwork: Subpages"
+msgstr "Betterwork: ទំព័របន្ទាប់"
+
+#: framework/widgets/subpages-widget.php:121
+msgid "Leave the Title field blank if you would like to display the parent page Title instead."
+msgstr "ចេញពីចំនងជើងបើអ្នកចងបង្ហាញចំនងជើងទំព័រមេជំនួស។"
+
+#: framework/widgets/video-widget.php:40
+msgid "A widget that allows to view video to be added to a sidebar"
+msgstr "A widget ដែលអនុញ្ញាតអោយបង្ហាញវីឌីអូដើម្បីបញ្ចូលទៅsidebar"
+
+#: framework/widgets/video-widget.php:43
+msgid "Betterwork: Video"
+msgstr "Betterwork: វិឌីអូ"
+
+#: framework/widgets/video-widget.php:97
+msgid "Video"
+msgstr "វីឌីអូ"
+
+#: framework/widgets/video-widget.php:106
+msgid "type"
+msgstr "បញ្ចូល"
+
+#: framework/widgets/video-widget.php:115
+msgid "Video ID:"
+msgstr "លេខរៀងរបស់វីឌីអូៈ"
+

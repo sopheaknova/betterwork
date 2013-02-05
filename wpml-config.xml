@@ -1,0 +1,15 @@
+<wpml-config>
+    <admin-texts>
+         <key name="betterwork">
+              <key name="latest_update_txt" />
+			  <key name="latest_update_desc" />
+			  <key name="learn_more" />
+			  <key name="see_all_txt" />
+			  <key name="readmore_link" />
+			  <key name="copyrights" />
+			  <key name="join_us_text" />
+         </key>
+    </admin-texts>   
+</wpml-config>
+
+

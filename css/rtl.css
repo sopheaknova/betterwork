@@ -1,0 +1,43 @@
+/* Begin Layout */
+#logo h1 {
+	text-align:left;
+}
+/* End Layout */
+
+/* Begin Sidebar */
+.custom-formatting li {
+    margin: 0;
+    width: 100%;
+    background: transparent url(../images/arrow-3-dark-rtl.png) no-repeat scroll 97% 10px;
+}
+.custom-formatting li.current_page_item > a, .custom-formatting li.current-cat > a, .custom-formatting li.current > a {
+    color: #333;
+}
+.custom-formatting li.current_page_item > a:hover, .custom-formatting li.current-cat > a:hover, .custom-formatting li.current > a:hover {
+    color: #555;
+}
+.custom-formatting li li {
+    background: transparent url(../images/arrow-3-dark-rtl.png) no-repeat scroll 92% 10px;
+}
+.custom-formatting li li li {
+    background: transparent url(../images/arrow-3-dark-rtl.png) no-repeat scroll 87% 10px;
+}
+.custom-formatting li li li li {
+    background: transparent url(../images/arrow-3-dark-rtl.png) no-repeat scroll 82% 10px;
+}
+.custom-formatting li li li li li {
+    background: transparent url(../images/arrow-3-dark-rtl.png) no-repeat scroll 77% 10px;
+}
+.custom-formatting a{
+	padding:5px 22px 5px 5px;
+}
+.custom-formatting ul ul li a{
+	padding-right:37px!important;
+}
+/* End Sidebar */
+
+/* Begin HTML Tag */
+p{
+	text-align:right;
+}
+/* End HTML Tag */
